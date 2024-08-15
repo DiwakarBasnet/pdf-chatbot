@@ -1,0 +1,6 @@
+name: langchain
+channels:
+  - defaults
+dependencies:
+  - python-dotenv=0.21.0
+prefix: /home/diwakar/miniconda3/envs/langchain
